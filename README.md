@@ -2,12 +2,12 @@
 
 Бот, который принимает текст и переводит в mp3 файл. Есть возможность ускорить или замедлить речь.
 
-Библиотеки которые потребуются:
+Библиотеки, которые потребуются:
 
-pip install gTTS
-pip install pyTelegramBotAPI
-pip install pydub
-pip install ffmpeg-python
+# pip install gTTS
+# pip install pyTelegramBotAPI
+# pip install pydub
+# pip install ffmpeg-python
 
 Также ffmpeg должен стоять на компьютере.
 
