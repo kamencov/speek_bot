@@ -26,7 +26,7 @@ def send_text(message):
         # настраиваем скорость речи
         new_file = speedup(audio, 1.2, 120)
         
-        # name_new.mp3 - пишем название файла который будет по итогу.
+        # name_new.mp3 - пишем название файла который будет по итогу
         new_file.export("name_new.mp3", format="mp3")
         name_2 = "name_new.mp3"
         
