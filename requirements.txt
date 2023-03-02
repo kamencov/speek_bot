@@ -1,0 +1,4 @@
+gTTS
+pyTelegramBotAPI
+pydub
+ffmpeg-python
